@@ -7,8 +7,11 @@ This repository contains tasks and projects completed during my internship at **
 1. **Personal Portfolio Website**  
    - Built a fully responsive personal portfolio website.  
    - Features: Animated sections, modern UI, and smooth navigation.  
+   - **Tech Stack:** HTML, CSS, JavaScript.
+     
+2. **Calculator App**  
+   - A functional calculator with a clean and user-friendly interface.  
    - **Tech Stack:** HTML, CSS, JavaScript.  
-
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
